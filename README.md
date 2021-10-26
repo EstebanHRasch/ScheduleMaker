@@ -1,5 +1,5 @@
-# FinalProject
-Schedule Maker:
+# Schedule Maker Info:
+
 To run the code simply execute scheduleTestV4.cpp (I ran it in vsCode).
 scheduleTestV4.cpp should display textual prompts to the user to answer about their courses.
 It will then output a text file with the available schedules into the folder where scheduleTestV4.cpp is located.
